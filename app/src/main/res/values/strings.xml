@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myfirtsapp</string>
+    <string name="mensajebienvenida">Hello my lord</string>
+    <string name="descripcionimagen">tux imagen flight</string>
+</resources>
